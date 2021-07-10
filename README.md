@@ -11,3 +11,6 @@ Resource pack designed for use with tato6 modpack.
 
 ### Botania
 - Increased the brightness of most Livingwood blocks/items to improve visibility
+
+### Mystical Mechanics
+- New partially wooden gearbox texture in preparation for recipe change
