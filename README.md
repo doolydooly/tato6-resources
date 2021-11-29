@@ -2,7 +2,8 @@
 Resource pack designed for use with tato6 modpack.
 
 1. Put the root `tato6` folder in the `resourcepacks` folder
-2. To enable by default, add `resourcePacks:["tato6"]` to `options.txt`
+2. To enable by default, add `resourcePacks:["tato6"]` to the server `options.txt`
+3. If not enabled in the server `options.txt`, users will have to manually turn the pack on in the client
 
 ## Current changes (alphabetically sorted by mod):
 
