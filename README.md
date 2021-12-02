@@ -8,13 +8,23 @@ Resource pack designed for use with tato6 modpack.
 ## Current changes (alphabetically sorted by mod):
 
 ### Additional Enchanted Miner (QuarryPlus)
-- New texture for Workbench Plus to make it look more like a workbench
+- Workbench Plus (new texture to make it look more like a workbench)
 
 ### Botania
-- Increased the brightness of most Livingwood blocks/items to improve visibility
+Increased the brightness of most Livingwood blocks/items to improve visibility:
+- Alfheim Portal
+- Drum of the Canopy / Drum of the Wild
+- Incense Plate
+- Livingwood (Basic, Planks, Mossy, Framed, Pattern Framed, Glimmering)
+- Livingwood Avatar
+- Mana Spreader / Pulse Mana Spreader
+- Manastorm Charge
+- Open Crate
+- Spreader Turntable
 
 ### Heterorustichromia (Rustichromia)
-- New Wooden Axle texture to go with the new Gearbox Frame texture
+- Wooden Axle (new texture to go with the new Gearbox Frame texture)
 
 ### Mystical Mechanics
-- New partially wooden Gearbox Frame texture in preparation for recipe change
+- Gearbox Frame (new partially wooden Gearbox Frame texture in preparation for recipe change)
+- Mergebox Frame (less gold to clash less with the new Gearbox Frame)
