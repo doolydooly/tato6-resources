@@ -22,6 +22,10 @@ Increased the brightness of most Livingwood blocks/items to improve visibility:
 - Open Crate
 - Spreader Turntable
 
+### ContentTweaker
+Added localized name for:
+- Sea Water
+
 ### Heterorustichromia (Rustichromia)
 - Wooden Axle (new texture to go with the new Gearbox Frame texture)
 
