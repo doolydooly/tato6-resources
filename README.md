@@ -29,6 +29,9 @@ Added localized name for:
 ### Heterorustichromia (Rustichromia)
 - Wooden Axle (new texture to go with the new Gearbox Frame texture)
 
+### More Buckets
+- Conversion of Copper Bucket to Cincinnasite Bucket
+
 ### Mystcraft
 - Ink Mixer (fixed block model always stuck in "north" orientation, fixed black page texture. pages on top Ink Mixer still aren't rotating correctly with block placement)
 
