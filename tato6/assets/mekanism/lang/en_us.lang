@@ -1,0 +1,29 @@
+# Gases
+gas.hydrogen=Hydrogen Gas
+gas.oxygen=Oxygen Gas
+gas.chlorine=Chlorine Gas
+gas.sulfurdioxide=Sulfur Dioxide Gas
+gas.sulfurtrioxide=Sulfur Trioxide Gas
+gas.sulfuricacid=Gaseous Sulfuric Acid
+gas.hydrogenchloride=Hydrogen Chloride Gas
+gas.ethene=Ethylene Gas
+gas.sodium=Sodium Gas
+gas.brine=Gaseous Brine
+gas.deuterium=Deuterium Gas
+gas.tritium=Tritium Gas
+gas.lithium=Lithium Gas
+gas.fusionfuel=Gaseous D-T Fuel
+
+# Fluids
+fluid.liquidhydrogen=Hydrogen
+fluid.liquidoxygen=Oxygen
+fluid.liquidchlorine=Chlorine
+fluid.liquidsulfurdioxide=Sulfur Dioxide
+fluid.liquidsulfurtrioxide=Sulfur Trioxide
+fluid.liquidhydrogenchloride=Hydrogen Chloride
+fluid.liquidethene=Ethylene
+fluid.liquidsodium=Molten Sodium
+fluid.liquidlithium=Molten Lithium
+fluid.liquiddeuterium=Deuterium
+fluid.liquidtritium=Tritium
+fluid.liquidfusionfuel=D-T Fuel

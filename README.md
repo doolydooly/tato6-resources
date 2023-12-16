@@ -29,6 +29,9 @@ Added localized name for:
 ### Heterorustichromia (Rustichromia)
 - Wooden Axle (new texture to go with the new Gearbox Frame texture)
 
+### Mekanism
+- Renaming of Mekanism elemental fluids/gases to better align with Nuclearcraft fluids
+
 ### More Buckets
 - Conversion of Copper Bucket to Cincinnasite Bucket
 
